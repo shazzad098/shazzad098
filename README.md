@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://avatars.githubusercontent.com/u/85432511?v=4" align="center" style="width: 10%" border_radius="50%"/>
-</div>  
+<img src="https://avatars.githubusercontent.com/u/85432511?v=4" align="left" height="100" width="100" />  
   
 
 ### <div align="center">I'm Shazzad, a professional Frontend developer 👨‍💻</div>  
