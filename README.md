@@ -2,9 +2,8 @@
   
 
 ### I'm Shazzad, a professional Frontend developer 👨‍💻
-Currently learning Backend & AI technologies.
-
-  
+Currently learning Backend & AI technologies. 🧠
+Trying to Up to date with the latest technologies.🚀  
   
 
 - 🔭Check my progress [Github Profile](https://github.com/shazzad098)  
