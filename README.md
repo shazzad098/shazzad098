@@ -1,7 +1,8 @@
 <img src="https://avatars.githubusercontent.com/u/85432511?v=4" align="left" height="100" width="100" />  
   
 
-### <div align="center">I'm Shazzad, a professional Frontend developer 👨‍💻</div>  
+### I'm Shazzad, a professional Frontend developer 👨‍💻
+Currently learning Backend & AI technologies.  
   
 
 - 🔭Check my progress [Github Profile](https://github.com/shazzad098)  
