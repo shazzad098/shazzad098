@@ -113,6 +113,3 @@ Trying to Up to date with the latest technologies.🚀
 
 <div align="left"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
