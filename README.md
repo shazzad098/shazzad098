@@ -105,8 +105,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/your-username/project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/your-username/project-2)
+[![Project 1](https://ats-resume-builder-taupe.vercel.app/)](https://github.com/shazzad098/ats_resume_builder)
+[![Project 2](https://smart-housing-management-system.vercel.app/#/login)](https://github.com/shazzad098/Smart_Housing_Management_System)
 
 </div>
 
