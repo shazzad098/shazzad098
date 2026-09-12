@@ -1,21 +1,56 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi, I'm Shazzad Haque Prince
+## Selected work
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Aspiring+Full-Stack+Engineer;Tech+Enthusiast+from+Bangladesh;Building+Modern+Web+Experiences" alt="Typing SVG" />
-</div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+  <img src="https://www.gitskins.com/api/section/hero?username=shazzad098&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85432511%3Fu%3Dedff31c344b40187facc6ede88058a0826241f9d%26v%3D4" alt="shazzad098 hero visual" />
 </p>
 
----
+<h1>Shazzad Prince</h1>
+<p><b>Freelance developer or consultant</b></p>
 
-## 🚀 About Me
+</div>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+## The idea behind the work
 
-- 🔭 Currently developing **Scalable Full-Stack Applications & AI-driven solutions**
-- 🌱 Advanced learning in **Cloud Architecture (Docker/AWS) & Mobile Development**
+> 👋 Hi, I’m Shazzad!
+🌟 Aspiring Full-Stack Developer | 🚀 Passionate About Web Development | 💡 Innovator with a Creative Mindset
+
+- 📍 Based in **Dhaka, Bangladesh**
+- 👥 **20** followers · **30** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/shazzad098/creatives_4_you">creatives_4_you</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/shazzad098/happy-shopping">happy-shopping</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/shazzad098/Java_project_MAHB">Java_project_MAHB</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Java · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/shazzad098/music_instrument">music_instrument</a></b></td><td>A simple music instrumental javascript project.<br/><sub>HTML · 0 stars</sub></td></tr>
+</table>
+
+## Details worth noticing
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=shazzad098&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85432511%3Fu%3Dedff31c344b40187facc6ede88058a0826241f9d%26v%3D4" alt="shazzad098 highlights visual" />
+</p>
+
+<p><b>Shazzad Prince</b> is shipping 84 public projects with 1 stars of proof.</p>
+
+## Creative toolkit
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) `Dockerfile` `Nix`
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=shazzad098&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85432511%3Fu%3Dedff31c344b40187facc6ede88058a0826241f9d%26v%3D4" alt="shazzad098 social visual" />
+</p>
+
+<a href="https://github.com/shazzad098">GitHub</a>
+
+<p align="center"><sub>Shazzad Prince · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>- 🌱 Advanced learning in **Cloud Architecture (Docker/AWS) & Mobile Development**
 - 👯 Interested in collaborating on **Enterprise-level Open Source Projects**
 - 💬 Ask me about **MERN Stack, React Native, and Backend System Design**
 - 📫 Connect with me: **shazzad920@gmail.com**
