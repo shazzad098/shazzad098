@@ -11,16 +11,6 @@
 
 </div>
 
-## The idea behind the work
-
-> 👋 Hi, I’m Shazzad!
-🌟 Aspiring Full-Stack Developer | 🚀 Passionate About Web Development | 💡 Innovator with a Creative Mindset
-
-- 📍 Based in **Dhaka, Bangladesh**
-- 👥 **20** followers · **30** following
-
-*Small, useful work over vague claims.*
-
 ## Case studies
 
 <table>
